@@ -1,3 +1,3 @@
-# Shell-Scripts
+# TODO Script
 
-you've read it
+This is a small Bash Script to organize your thing you got to do.
